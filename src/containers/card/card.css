@@ -1,0 +1,22 @@
+.card-container {
+  display: flex;
+  justify-content: center;
+  width: fit-content;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 0.1em;
+  background-color: white;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card-content {
+  width: 504px;
+}
+
+.avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background-color: red;
+  margin-right: 10px;
+}

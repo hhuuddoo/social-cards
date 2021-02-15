@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Hudson Ballina",
+    "username": "hudsonballina",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum ab maxime itaque ea in blanditiis tempore ad placeat, ullam aperiam dolore qui beatae nemo tenetur quos amet obcaecati consequatur! Tenetur quos nulla nemo eum, perferendis sint libero nam illo inventore enim doloribus quis. Vitae qui ullam expedita labore enim fuga eaque quae quibusdam dolorem soluta architecto cumque, consequatur ab, nesciunt aut aspernatur iste recusandae? Iure ipsam laboriosam quidem, voluptate illo id dignissimos veritatis obcaecati laborum soluta culpa voluptatum, architecto beatae voluptates, tempora dolorum? Maxime nobis autem voluptas? Eum saepe dolores similique quis dolorum. Ducimus facilis accusantium esse maiores, sit deserunt.",
+    "date": "20 Oct",
+    "likes": "2",
+    "shares": "3",
+    "comments": "254",
+    "image": "Picture of dog"
+  },
+  {
+    "name": "Hudson Ballina",
+    "username": "hudsonballina",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum ab maxime itaque ea in blanditiis tempore ad placeat, ullam aperiam.",
+    "date": "19 Oct",
+    "likes": "59",
+    "shares": "14",
+    "comments": "2",
+    "image": ""
+  },
+  {
+    "name": "Obama ObamaLastname",
+    "username": "Obama",
+    "text": "Ok, these are some epic cards",
+    "date": "15 Oct",
+    "likes": "134",
+    "shares": "61",
+    "comments": "21",
+    "image": "Picture of something epic"
+  },
+  {
+    "name": "Hudson Ballina",
+    "username": "hudsonballina",
+    "text": "Yooo haha",
+    "date": "8 Oct",
+    "likes": "5",
+    "shares": "3",
+    "comments": "815",
+    "image": ""
+  }
+]

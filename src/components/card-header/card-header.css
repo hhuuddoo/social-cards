@@ -1,0 +1,24 @@
+.card-header {
+  display: flex;
+  line-height: 1rem;
+}
+
+.account-group {
+  display: flex;
+  align-items: flex-start;
+  text-decoration: none;
+  color: black;
+}
+
+.account-group > * {
+  margin-right: 0.3rem;
+}
+
+.account-group:last-child {
+  margin-right: 0;
+}
+
+.username,
+.date-group > * {
+  color: #657786;
+}
